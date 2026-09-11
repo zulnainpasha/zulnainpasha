@@ -1,0 +1,20 @@
+{
+  "projects": [
+    {
+      "repo": "CheckMate",
+      "description": "CheckMate is an end-to-end attendance management system that enables secure self-marking through Wi-Fi range verification, device binding, and biometric authentication. It reduces attendance marking time by up to 90% while minimizing proxy attendance and improving attendance accuracy."
+    },
+    {
+      "repo": "QwickHub",
+      "description": "QwickHub is an end-to-end ERP platform for startups, managing projects from initiation through client delivery and post-service support with role-based access control (RBAC). It also provides client collaboration, HR management, leave tracking, reporting, and asset management—all on a single platform."
+    },
+    {
+      "repo": "e-commerce-Backend",
+      "description": "E-Commerce Backend is a scalable backend platform built for the aquarium industry, supporting modern e-commerce features such as product and category management, secure authentication, order processing, and efficient data management."
+    },
+    {
+      "repo": "aquarium-frontend",
+      "description": "Frontend built for an aquarium e-commerce application."
+    }
+  ]
+}
